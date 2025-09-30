@@ -3,4 +3,3 @@ function openFormInBrowser(event) {
     window.open(formUrl, "_blank");
     event.completed();
 }
-
